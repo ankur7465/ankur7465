@@ -1,5 +1,6 @@
 # 💫 About Me:
-“Hi, I’m Ankur Kumar. <br>I’m a college student and a fresher from India.<br> I’m interested in new technologies and learning web development.<br> I’m always eager to learn, improve my skills, and grow in the IT field.”
+“Hi, I’m Ankur Kumar. <br>I’m a fresher from uttarpradesh.<br> I’m interested in new technologies and learning full stack development.<br> I’m always eager to learn, improve my skills, and grow in the IT field.”
+
 
 
 ## 🌐 Socials:
